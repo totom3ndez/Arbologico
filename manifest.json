@@ -1,0 +1,19 @@
+{
+    "name": "Arbologico",
+    "short_name": "Arbologico",
+    "start_url": "index.html",
+    "background_color": "black",
+    "display": "standalone",
+    "description": "Crea tu propio árbol genealogico",
+    "theme_color": "black",
+    
+    "icons": [
+        {
+        "src": "resources/logo.svg",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+        }
+    ]
+    
+}
