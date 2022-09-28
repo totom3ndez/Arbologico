@@ -1,0 +1,32 @@
+{
+  "name": "arbol-genealogico",
+  "version": "1.0.0",
+  "description": "Create your own family tree",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch styles/sass:styles/css",
+    "css": "gulp css",
+    "js": "gulp js",
+    "toWebp": "gulp toWebp",
+    "listen": "gulp listen",
+    "dev": "gulp dev"
+  },
+  "keywords": [
+    "family",
+    "tree",
+    "tree",
+    "family"
+  ],
+  "author": "Tomas Mendez",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-webp": "^4.0.1",
+    "sass": "^1.54.4"
+  }
+}
