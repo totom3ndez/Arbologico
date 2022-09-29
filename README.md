@@ -1,6 +1,5 @@
 # Arbológico
 
-
 This website was created by Tomás Méndez.
 
 Developed with: Static HTML, GulpJs (https://gulpjs.com/)
