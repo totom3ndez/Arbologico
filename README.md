@@ -1,8 +1,8 @@
-## Arbológico
+## Arbológico 🌳
 
 On this website you could create your own family tree, save it to finish it later and export it in PNG format.
 
-## Stats 
+## Stats 📋
 
 This website was created by Tomás Méndez.
 
@@ -12,7 +12,7 @@ Added features: JAVASCRIPT (jQuery & jQueryUI check both: https://jquery.com/).
 
 This website is currently under development so it is only responsive to laptop or wide screen sizes.
 
-## Targets
+## Targets 🎯
 - Create a person, be able to move and delete it. ✔️
 - Being able to give styles to that person. ✔️
 - Being able to edit their details. ⏱️
