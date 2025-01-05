@@ -9,4 +9,4 @@ Added features: JAVASCRIPT (jQuery & jQueryUI check both: https://jquery.com/).
 jQuery: 
 Draggable interaction has been used, check documentation here: https://jqueryui.com/draggable/
 
-This website is currently under development so it is only responsive to laptop or wide screen sizes.
+## This website is currently under development so it is only responsive to laptop or wide screen sizes.
